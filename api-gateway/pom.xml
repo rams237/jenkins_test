@@ -16,7 +16,11 @@
 		<!-- versions -->
 		
 		<http.port>8080</http.port>
+		<!-- versions -->
+		<java.version>1.7</java.version>
+		<!-- versions -->
 		
+<http.port>8080</http.port>
 	</properties>
 	
 	<parent>
